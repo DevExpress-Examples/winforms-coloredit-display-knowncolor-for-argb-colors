@@ -6,7 +6,7 @@
 
 # Winforms Color Editor - Display known system colors for ARGB colors
 
-This example creats a custom color editor and overrides the `RepositoryItemColorEdit.GetColorDisplayText` method. The example also uses a helper class to convert a color in any format to a known system color.
+This example creates a custom color editor and overrides the `RepositoryItemColorEdit.GetColorDisplayText` method. The example also uses a helper class to convert a color in any format to a known system color.
 
 ![Winforms Color Editor - Display known system colors for ARGB colors](https://raw.githubusercontent.com/DevExpress-Examples/how-to-display-knowncolor-names-for-argb-colors-in-coloredit-e1516/13.1.4%2B/media/winforms-coloredit-custom-color-name.png)
 
